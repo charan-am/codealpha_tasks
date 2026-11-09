@@ -1,0 +1,7 @@
+*.exe
+**/campusledger
+**/matrixlab
+**/calccraft
+**/students.dat
+**/calccraft_history.txt
+*.tmp

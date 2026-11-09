@@ -1,0 +1,10 @@
+
+# Ignore compiled executables
+*.exe
+/campusledger
+
+# Ignore local student database
+students.dat
+
+# Ignore temporary files
+*.tmp
